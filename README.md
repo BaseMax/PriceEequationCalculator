@@ -29,3 +29,15 @@ For most Bitcoin traders, adjusting the price of advertisements by setting a mar
 Price equations allow you to automatically update your price with the price fluctuations of Bitcoin. They work by taking price information that we automatically fetch from market data sources (Other Bitcoin exchanges) and updating the price of your advertisement as soon as new price information is fetched. To create a custom price equation you select your market data sources and combine or modify them using operators.
 
 The default price equation we use for advertisements uses a special market data source and a simple multiplication operator to place a margin on top of the market data price.
+
+---------
+
+# Max Base
+
+My nickname is Max, Programming language developer, Full-stack programmer. I love computer scientists, researchers, and compilers.
+
+## Asrez Team
+
+A team includes some programmer, developer, designer, researcher(s) especially Max Base.
+
+[Asrez Team](https://www.asrez.com/)

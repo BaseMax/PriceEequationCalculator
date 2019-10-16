@@ -1,8 +1,10 @@
+# Price Eequation
+
 # Tiny Calculator
 
 A fast and tiny calculator library to calc the value with support of most operator and function ability.
 
-# Price Eequation
+# Price Eequation Calculator
 
 Price equations allow you to automatically update your price with the price fluctuations.
 

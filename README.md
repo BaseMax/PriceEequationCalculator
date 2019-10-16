@@ -6,6 +6,18 @@ A fast and tiny calculator library to calc the value with support of most operat
 
 Price equations allow you to automatically update your price with the price fluctuations.
 
+## Using
+
+```php
+<?php
+include "calc.php";
+$calc = calc::create();
+$calc->addFunc("stephin", function() {
+	return rand(1,10);
+});
+echo $calc->calc('stephin() + 1+2*3/4');
+```
+
 ## Goal
 
 ### Price equations for Bitcoin advertisements
